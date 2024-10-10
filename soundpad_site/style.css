@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+
+.btnmain{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn1{
+    margin-left: 5px;
+}
+
+.btn2{
+    margin-left: 5px;
+}
+
+.btn3{
+    margin-left: 5px;
+}
+
+.btn4{
+    margin-left: 5px;
+}
+
+.btn5{
+    margin-left: 5px;
+}
